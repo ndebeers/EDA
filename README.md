@@ -1,5 +1,6 @@
-# EDA
-Exploratory data analysis on Kaggle ML and DS surveys using Pandas, Seaborn and Matplotlib.
+# Exploratory data analysis on Kaggle ML and DS surveys using Pandas, Seaborn and Matplotlib
+
+This project is an exploratory data analysis on Kaggle ML and DS surveys using Pandas, Seaborn and Matplotlib.
 
 Cleaned and analysed the demographics from two Kaggle machine learning & data science surveys which amounted to a data set of size 67620 rows & 7 columns.
 
